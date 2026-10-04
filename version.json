@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "versionCode": 2,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.0.1:\n- កែសម្រួលបញ្ហាកាត់វីដេអូ 00:01s ឱ្យដំណើរការពេញលេញ ១០០%\n- ដោះស្រាយបញ្ហា Error ពេលបកប្រែវីដេអូ\n- បន្ថែមមុខងារ Auto Update ដោយផ្ទាល់ក្នុង App ដោយមិនបាច់ផ្ញើ File\n- បង្កើនល្បឿន និងស្ថេរភាព",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.0.1/Trabekprey-App-Release.apk",
+  "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
+  "forceUpdate": false
+}
