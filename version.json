@@ -1,0 +1,8 @@
+{
+  "version": "1.0.2",
+  "versionCode": 3,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.0.2:\n- បំបែកប្រព័ន្ធ License ដាច់ដោយឡែកពី App ដោនឡូត (ការពារការ Log in ឆ្លង App)\n- ពង្រឹងសុវត្ថិភាពផ្ទៀងផ្ទាត់អាជ្ញាបណ្ណ និងស្ថេរភាព",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.0.2/Trabekprey-App-Release.apk",
+  "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
+  "forceUpdate": false
+}
