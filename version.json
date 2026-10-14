@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "versionCode": 4,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.0.3:\n- ដោះស្រាយបញ្ហា Error 'Edge TTS could not generate audio' ដោយជោគជ័យ ១០០% (Microsoft Sec-MS-GEC v2 Protocol)\n- ដោះស្រាយបញ្ហាដកសំឡេងដើម / យកភ្លេង (Vocal Separation) ដោយបន្ថែម On-Device Audio Engine លើទូរស័ព្ទ ធានាលឺភ្លេង ១០០% មិនបាច់ភ្ជាប់ PC\n- បង្កើនស្ថេរភាព និងល្បឿននៃការបកប្រែវីដេអូ",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.0.3/Trabekprey-App-Release.apk",
+  "version": "1.0.4",
+  "versionCode": 5,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.0.4:\n- បង្ហាញនាទីវីដេអូដើមភ្លាមៗនៅកន្លែង Preview Video (លែងចេញ 00:00)\n- បង្ហាញឈ្មោះ Trabekprey_Server សម្រាប់ការបកប្រែ\n- បន្ថែមផ្ទាំង Pop-up ជូនដំណឹងផ្ញើ Gmail ទៅកាន់ Admin និងប៊ូតុងទាក់ទង Admin ពេលដំឡើង App\n- កែសម្រួលជម្រើសយកភ្លេងវីដេអូ Demucs AI Auto / On-Device (លឿន & គុណភាពខ្ពស់) និងដាស់តឿនល្បឿន\n- បន្ថែមមុខងារវីដេអូវែង (30mn, 1h, 2h, 3h): ជម្រើសកាត់ខ្លីៗតាមនាទីកំណត់ និងជម្រើសយករឿងពេញ (Auto 2-minute Chunking & Merging ការពារ Error ១០០%)",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.0.4/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": false
 }
