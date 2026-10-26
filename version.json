@@ -1,8 +1,8 @@
 {
-  "version": "1.0.5",
-  "versionCode": 6,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.0.5:\n- ដោះស្រាយបញ្ហាបកប្រែសំឡេង Edge-TTS ដែល User ភាគច្រើនជួបប្រទះ (Exception: Edge TTS did not return audio bytes / could not generate audio)\n- បង្កើត Multi-turn Persistent WebSocket Connection ជួយ Dubbing លឿនជាងមុន និងការពារការបិទច្រកពី Microsoft\n- បន្ថែមប្រព័ន្ធស្វ័យប្រវត្តិកែតម្រូវម៉ោង Server (Clock Skew Compensation)\n- បន្ថែមប្រព័ន្ធបម្រុង Google Khmer TTS Auto-Fallback ការពារដាច់ខាតមិនឱ្យ Error Subtitle សូម្បីតែមួយ Cue",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.0.5/Trabekprey-App-Release.apk",
+  "version": "1.0.6",
+  "versionCode": 7,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.0.6:\n- ដោះស្រាយបញ្ហា Error ស្រង់សំឡេង (Exception: មិនអាចស្រង់សំឡេងសន្ទនាបានទេ) ដោយជោគជ័យ ១០០% (Deepgram Auto-Detect + Gemini 2.5 Flash Audio Multi-Tier Transcriber)\n- កែសម្រួលគុណភាពបកប្រែជាភាសាខ្មែរ (Cinematic Drama Voiceover): បកប្រែយល់សាច់រឿងយ៉ាងស៊ីជម្រៅ តាមអារម្មណ៍តួអង្គ (បង/អូន, ឯង/យើង) ពាក្យស្លោក កាយវិការ និងប្តូរលេខទៅជាពាក្យនិយាយខ្មែរ (៣ សែន, ៣០ ម៉ឺន) ធម្មជាតិដូចភាពយន្តទូរទស្សន៍\n- បន្ថែម Gemini Flash Key Rotation Pool ក្នុង App ដំណើរការលឿន និងមានស្ថេរភាពខ្ពស់",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.0.6/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
