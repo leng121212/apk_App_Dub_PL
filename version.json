@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "versionCode": 11,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.1.0:\n- បន្ថែម Groq AI API Key ផ្លូវការ (100% Free & Unlimited Fast):\n  + ស្រង់សំឡេងសន្ទនាភាសាចិនលឿនត្រឹម 0.8s ជាមួយ Whisper-Large-V3-Turbo កម្រិតខ្ពស់ និង timestamps សុក្រឹត្យបំផុត\n  + បកប្រែសាច់រឿងភាសាចិនទៅខ្មែរតាមអារម្មណ៍តួអង្គភាពយន្តភាគជាមួយ Qwen 3.8 / GPT-OSS 120B Drama Voiceover Director\n- ដកចេញ Gemini API Keys ទាំងអស់ចេញពីប្រព័ន្ធ\n- រក្សាមុខងារ Preview Video និងគ្រប់គ្រង Blur Toolbar យ៉ាងពេញលេញ\n- Auto Update បានភ្លាមៗលើគ្រប់ឧបករណ៍ Android",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.1.0/Trabekprey-App-Release.apk",
+  "version": "1.1.1",
+  "versionCode": 12,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.1.1:\n- កែសម្រួលបញ្ជី Model ទាំងស្រុង ដោយរក្សាទុកតែ Groq Models សុទ្ធសាធ ១០០% ស្រួលប្រើប្រាស់:\n  + Transcribe: Groq Whisper Large-V3 Turbo (លឿន ~0.8s) & Groq Whisper Large-V3\n  + Translate: Groq Qwen 3.8 27B (បកប្រែរឿងភាគចិនល្អបំផុត) & Groq GPT-OSS 120B (សន្ទនាភាពយន្ត) & Groq AI Turbo\n- ដកចេញរាល់ Model Gemini និង Local Model ចាស់ៗទាំងអស់ចេញពី Menu មិនឱ្យមានភាពរញ៉េរញ៉ៃ\n- Auto Update បានភ្លាមៗលើគ្រប់ឧបករណ៍ Android",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.1.1/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
