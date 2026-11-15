@@ -1,0 +1,8 @@
+{
+  "version": "1.1.2",
+  "versionCode": 13,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.1.2:\n- បន្ថែមមុខងារថ្មី \"បកប្រែម្ដងមួយ\" នៅក្នុង Setting នៅក្រោមគណនី Gmail\n- មុខងារ Auto-Split៖ ពេលដាក់វីដេអូចូល បើលើសពី 5 នាទី កាត់ជាភាគខ្លីៗ Auto ភ្លាមៗ\n- ប៊ូតុង Copy Video + Prompt (Detect ប្រុស/ស្រី) សម្រាប់យកទៅបកប្រែក្នុង Gemini\n- ប៊ូតុង Generate៖ យក Script SRT ពី Gemini មក Paste ដើម្បីបង្កើតសំឡេង (Piseth & Sreymom) និងបញ្ចូលក្នុងវីដេអូ\n- ពេល Generate ពេញ 100% វានឹង Auto Save ចូល Photo / Gallery ក្នុងទូរស័ព្ទដោយស្វ័យប្រវត្តិ!",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.1.2/Trabekprey-App-Release.apk",
+  "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
+  "forceUpdate": true
+}
