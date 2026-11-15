@@ -1,8 +1,8 @@
 {
-  "version": "1.1.3",
-  "versionCode": 14,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.1.3:\n- ពង្រឹងមុខងារប៊ូតុង \"Copy\"៖ ចុច Copy ម្ដងបានទាំង File Video និង Prompt Detect ប្រុស/ស្រី ចូល Clipboard ដំណាលគ្នា\n- ពេល Past ចូល Gemini (ទាំង App និង Web browser) វានឹង Paste ទាំង Video & Prompt ចូលស្វ័យប្រវត្តិ\n- បន្ថែមប៊ូតុងផ្ទាល់ \"បើក Gemini\" សម្រាប់ងាយស្រួល Past ភ្លាមៗ\n- មុខងារ Auto-Split និងបញ្ចូលសំឡេងស្វ័យប្រវត្តិតាមការបកប្រែ",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.1.3/Trabekprey-App-Release.apk",
+  "version": "1.2.0",
+  "versionCode": 15,
+  "changelog": "កំណែអាប់ដេតធំ v1.2.0 (Trabekprey Dubbing Keyboard):\n- បន្ថែម App Keyboard សម្រាប់ Android៖ អាចបកប្រែរឿងបានផ្ទាល់ក្នុង Gemini (មិនបាច់ Switch App ចុះឡើង)\n- ដាក់វីដេអូចូល កាត់ជាភាគ 5 នាទី Auto ភ្លាមៗ\n- ប៊ូតុង \"Insert\" លើ Keyboard៖ ទម្លាក់វីដេអូ + Prompt Detect ប្រុស/ស្រី ចូលប្រអប់សរសេរក្នុង Gemini ភ្លាមៗ\n- ប៊ូតុង \"Gen\" លើ Keyboard៖ គ្រាន់តែ Copy Script ពី Gemini រួចចុច Gen វានឹងបង្កើតសំឡេង Piseth/Sreymom បញ្ចូលក្នុងវីដេអូ និង Auto Save ទៅ Photos ពេញ 100% ស្វ័យប្រវត្តិ!\n- អាចបើកដំណើរការ Keyboard ក្នុង Settings របស់ App បានយ៉ាងងាយស្រួល",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.0/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
