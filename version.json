@@ -1,8 +1,8 @@
 {
-  "version": "1.1.4",
-  "versionCode": 15,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.1.4:\n- បន្ថែមប៊ូតុងផ្ទាល់ \"Gemini\" (🚀 ផ្ញើទៅ Gemini)៖ ភ្ជាប់ទាំងឯកសារ Video និង Prompt Detect ប្រុស/ស្រី ចូលទៅក្នុង Gemini ដោយស្វ័យប្រវត្តិ\n- ភាគវីដេអូនីមួយៗត្រូវបាន Auto-Save ចូល Album Photos/Movies ក្នុងទូរស័ព្ទភ្លាមៗ ដើម្បីងាយស្រួលចុចសញ្ញា (+) ជ្រើសរើសក្នុង Gemini\n- កំណត់ការកាត់ភាគខ្លីៗ Auto ត្រឹម 4 នាទី (ក្រោម 5 នាទីរបស់ Gemini) គ្មានបញ្ហា Error\n- មុខងារ Generate សំឡេងខ្មែរតាម SRT និងបញ្ចូលក្នុងវីដេអូ Auto Save 100%",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.1.4/Trabekprey-App-Release.apk",
+  "version": "1.2.0",
+  "versionCode": 20,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.2.0:\n- បន្ថែមមុខងារពិសេស \"Gemini Direct Web\" (100% លើទូរស័ព្ទសុទ្ធសាធ គ្មាន PC & គ្មាន Server)៖\n  + Log in គណនី Google តែម្ដងគត់ក្នុង App (WebView) ដើម្បីបកប្រែ Subtitle ភាពយន្តដោយឥតគិតថ្លៃ\n  + Auto-Inject Prompt និង Auto-Extract អត្ថបទបកប្រែខ្មែរភ្លាមៗ\n- បញ្ចូលសម្លេង Edge-TTS (ប្រុស/ស្រី Piseth & Sreymom) សុទ្ធ ១០០% (លុបបំបាត់សំឡេង Google ស្រីទាំងស្រុង)\n- Auto Merge វីដេអូ និង Save ចូលក្នុង Photos/Gallery ទូរស័ព្ទដោយស្វ័យប្រវត្តិ",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.0/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
