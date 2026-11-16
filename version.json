@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
-  "versionCode": 20,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.2.0:\n- បន្ថែមមុខងារពិសេស \"Gemini Direct Web\" (100% លើទូរស័ព្ទសុទ្ធសាធ គ្មាន PC & គ្មាន Server)៖\n  + Log in គណនី Google តែម្ដងគត់ក្នុង App (WebView) ដើម្បីបកប្រែ Subtitle ភាពយន្តដោយឥតគិតថ្លៃ\n  + Auto-Inject Prompt និង Auto-Extract អត្ថបទបកប្រែខ្មែរភ្លាមៗ\n- បញ្ចូលសម្លេង Edge-TTS (ប្រុស/ស្រី Piseth & Sreymom) សុទ្ធ ១០០% (លុបបំបាត់សំឡេង Google ស្រីទាំងស្រុង)\n- Auto Merge វីដេអូ និង Save ចូលក្នុង Photos/Gallery ទូរស័ព្ទដោយស្វ័យប្រវត្តិ",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.0/Trabekprey-App-Release.apk",
+  "version": "1.2.1",
+  "versionCode": 21,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.2.1:\n- ដោះស្រាយបញ្ហាផ្ទាំង Log in Google គាំង/Blank នៅលើ Android WebView (បំពាក់ iOS Safari Engine & អនុញ្ញាត Third-Party Cookies)\n- ផ្ទុកទំព័រ Google Sign-In ដោយផ្ទាល់ មិនជាប់គាំង Redirect Loop\n- បន្ថែមប៊ូតុង \"បញ្ចូល Cookies ដោយដៃ\" ក្នុង Gemini Router Manager សម្រាប់ Paste __Secure-1PSID ភ្លាមៗដោយមិនបាច់ Log in តាម Web ក៏បាន\n- ពង្រឹងការបកប្រែ Gemini Direct Web 100% លើទូរស័ព្ទដៃ និងសំឡេង Edge-TTS សុទ្ធ",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.1/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
