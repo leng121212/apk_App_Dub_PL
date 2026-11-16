@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "versionCode": 24,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.2.4:\n- កែសម្រួលប្រព័ន្ធ Gemini Cookie ដំណើរការលើទូរស័ព្ទសុទ្ធ ១០០% គ្មាន Server PC\n- មិនបាច់ភ្ជាប់ Wi-Fi តែមួយឡើយ (ប្រើបានទាំង Wi-Fi ឬ 4G/5G គ្រប់ទីកន្លែង)\n- លុបចោលការត្រួតពិនិត្យ IP/Port និងកំហុស Router Offline ទាំងស្រុង\n- គ្រប់គ្រង Multi-Account Cookies និង Paste Cookie ពី Admin បានយ៉ាងងាយស្រួល",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.4/Trabekprey-App-Release.apk",
+  "version": "1.2.5",
+  "versionCode": 25,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.2.5:\n- ដោះស្រាយបញ្ហាគាំងផ្ទាំង 'កំពុងផ្ទុកទំព័រ Gemini Web...' ជិត ២ ម៉ោង\n- កែសម្រួលប្រព័ន្ធ Inject Cookie អោយលឿន និងមានសុវត្ថិភាពខ្ពស់ មិនកកស្ទះ\n- បង្ហាញផ្ទាំង Gemini Web ផ្ទាល់ ១០០% មិនបាំងផ្ទាំងងងឹតទៀតឡើយ\n- បន្ថែមប៊ូតុង [⚡ ប្រើ Groq AI ជំនួស] សម្រាប់បកប្រែភ្លាមៗបើមិនចង់រង់ចាំ",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.5/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
