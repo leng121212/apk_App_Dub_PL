@@ -1,8 +1,8 @@
 {
-  "version": "1.2.5",
-  "versionCode": 25,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.2.5:\n- ដោះស្រាយបញ្ហាគាំងផ្ទាំង 'កំពុងផ្ទុកទំព័រ Gemini Web...' ជិត ២ ម៉ោង\n- កែសម្រួលប្រព័ន្ធ Inject Cookie អោយលឿន និងមានសុវត្ថិភាពខ្ពស់ មិនកកស្ទះ\n- បង្ហាញផ្ទាំង Gemini Web ផ្ទាល់ ១០០% មិនបាំងផ្ទាំងងងឹតទៀតឡើយ\n- បន្ថែមប៊ូតុង [⚡ ប្រើ Groq AI ជំនួស] សម្រាប់បកប្រែភ្លាមៗបើមិនចង់រង់ចាំ",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.5/Trabekprey-App-Release.apk",
+  "version": "1.2.6",
+  "versionCode": 26,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.2.6:\n- កំណត់ Groq Qwen 3.8 27B ជា Engine បកប្រែស្តង់ដារលឿនបំផុត (១០០% លើទូរស័ព្ទ គ្មាន PC គ្មាន Cookie)\n- ដោះស្រាយបញ្ហា PlatformException/Blank លើ Gemini Web ដោយ Auto-Fallback ទៅ Groq AI ក្នុង ១ វិនាទី\n- បន្ថែមប៊ូតុង [⚡ ប្រើ Groq AI ជំនួសភ្លាម] ធានាដំណើរការ ១០០% មិនគាំងទៀតឡើយ",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.6/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
