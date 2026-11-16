@@ -1,8 +1,8 @@
 {
-  "version": "1.2.3",
-  "versionCode": 23,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.2.3:\n- គាំទ្រការ Paste Cookie ផ្ដល់ដោយ Admin ដោយផ្ទាល់ (No Web Login)\n- មានប៊ូតុង [📋 ចុច Paste ភ្លាម] ស្រង់ Cookie ពី Clipboard ស្វ័យប្រវត្តិ\n- គាំទ្រការគ្រប់គ្រង Multi-Account Cookies និងលុប/បន្ថែមគណនីបានយ៉ាងងាយស្រួល\n- Auto Inject Cookie ចូលក្នុង Gemini Direct Web ដោយស្វ័យប្រវត្តិ",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.3/Trabekprey-App-Release.apk",
+  "version": "1.2.4",
+  "versionCode": 24,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.2.4:\n- កែសម្រួលប្រព័ន្ធ Gemini Cookie ដំណើរការលើទូរស័ព្ទសុទ្ធ ១០០% គ្មាន Server PC\n- មិនបាច់ភ្ជាប់ Wi-Fi តែមួយឡើយ (ប្រើបានទាំង Wi-Fi ឬ 4G/5G គ្រប់ទីកន្លែង)\n- លុបចោលការត្រួតពិនិត្យ IP/Port និងកំហុស Router Offline ទាំងស្រុង\n- គ្រប់គ្រង Multi-Account Cookies និង Paste Cookie ពី Admin បានយ៉ាងងាយស្រួល",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.4/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
