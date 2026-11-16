@@ -1,8 +1,8 @@
 {
-  "version": "1.2.2",
-  "versionCode": 22,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.2.2:\n- គាំទ្រការ Copy/Paste Cookies ដោយផ្ទាល់ពី Extension លើទូរស័ព្ទ (Auto Parse __Secure-1PSID និង __Secure-1PSIDTS ស្វ័យប្រវត្តិ)\n- បន្ថែមការគាំទ្រ Gemini Multi-Account Pool អាចដាក់បានច្រើនគណនី និងបង្វិលគ្នាពេលបកប្រែ\n- ដោះស្រាយបញ្ហាផ្ទាំង Log in Google គាំង/Blank នៅលើ Android WebView",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.2/Trabekprey-App-Release.apk",
+  "version": "1.2.3",
+  "versionCode": 23,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.2.3:\n- គាំទ្រការ Paste Cookie ផ្ដល់ដោយ Admin ដោយផ្ទាល់ (No Web Login)\n- មានប៊ូតុង [📋 ចុច Paste ភ្លាម] ស្រង់ Cookie ពី Clipboard ស្វ័យប្រវត្តិ\n- គាំទ្រការគ្រប់គ្រង Multi-Account Cookies និងលុប/បន្ថែមគណនីបានយ៉ាងងាយស្រួល\n- Auto Inject Cookie ចូលក្នុង Gemini Direct Web ដោយស្វ័យប្រវត្តិ",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.3/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
