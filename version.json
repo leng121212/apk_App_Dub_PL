@@ -1,8 +1,8 @@
 {
-  "version": "1.2.6",
-  "versionCode": 26,
-  "changelog": "កំណែអាប់ដេតថ្មី v1.2.6:\n- កំណត់ Groq Qwen 3.8 27B ជា Engine បកប្រែស្តង់ដារលឿនបំផុត (១០០% លើទូរស័ព្ទ គ្មាន PC គ្មាន Cookie)\n- ដោះស្រាយបញ្ហា PlatformException/Blank លើ Gemini Web ដោយ Auto-Fallback ទៅ Groq AI ក្នុង ១ វិនាទី\n- បន្ថែមប៊ូតុង [⚡ ប្រើ Groq AI ជំនួសភ្លាម] ធានាដំណើរការ ១០០% មិនគាំងទៀតឡើយ",
-  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.6/Trabekprey-App-Release.apk",
+  "version": "1.2.7",
+  "versionCode": 27,
+  "changelog": "កំណែអាប់ដេតថ្មី v1.2.7:\n- កែសម្រួល Tab STS ថ្មីទាំងស្រុង៖ ដាក់វីដេអូជាបញ្ជីតាមភាគ (Episode), ប៊ូតុងកាត់ជាកង់ និងផ្គុំចូលគ្នា Auto\n- បន្ថែមប៊ូតុង [ប្រុស/ស្រី] និង [សម្រាយ] ផ្ញើវីដេអូ + Prompt.txt ផ្ទាល់ និងប៊ូតុង [បញ្ចូល] Paste Script Auto Generate ភ្លាមៗ\n- កែបញ្ហាសម្លេងនិយាយជាន់គ្នា ១០០% ដោយ Auto-Speed + ប្រព័ន្ធ AI ដកសម្លេងតួអង្គដើមទុកភ្លេងដើមលើទូរស័ព្ទផ្ទាល់\n- បន្ថែមប៊ូតុង [របៀបប្រើប្រាស់] មើលវីដេអូណែនាំបញ្ឈរផ្ទាល់ក្នុង App",
+  "downloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/download/v1.2.7/Trabekprey-App-Release.apk",
   "directDownloadUrl": "https://github.com/leng121212/apk_App_Dub_PL/releases/latest/download/Trabekprey-App-Release.apk",
   "forceUpdate": true
 }
